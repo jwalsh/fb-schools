@@ -16,3 +16,6 @@
 [submodule "lib/underscore"]
 	path = lib/underscore
 	url = https://github.com/documentcloud/underscore.git
+[submodule "lib/html5-boilerplate"]
+	path = lib/html5-boilerplate
+	url = https://github.com/paulirish/html5-boilerplate.git
