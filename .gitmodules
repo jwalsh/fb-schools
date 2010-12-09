@@ -1,0 +1,12 @@
+[submodule "haml.js"]
+	path = haml.js
+	url = https://github.com/visionmedia/haml.js.git
+[submodule "lib/haml.js"]
+	path = lib/haml.js
+	url = https://github.com/visionmedia/haml.js.git
+[submodule "lib/jquery.js"]
+	path = lib/jquery.js
+	url = https://github.com/jquery/jquery.git
+[submodule "lib/sass.js"]
+	path = lib/sass.js
+	url = https://github.com/visionmedia/sass.js.git
