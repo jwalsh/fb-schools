@@ -10,3 +10,9 @@
 [submodule "lib/sass.js"]
 	path = lib/sass.js
 	url = https://github.com/visionmedia/sass.js.git
+[submodule "lib/mustache.js"]
+	path = lib/mustache.js
+	url = https://github.com/janl/mustache.js.git
+[submodule "lib/underscore"]
+	path = lib/underscore
+	url = https://github.com/documentcloud/underscore.git
